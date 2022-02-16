@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lorleod
 - 👀 I’m interested in the places where Culture, Economics, Environment, and Tech meet
 - 🌱 I’m currently learning ... The basics of Comp Sci and Software Development
-- 💞️ I’m looking to collaborate on ... Learning to code and finding good work
+- 💞️ I’m looking to collaborate on ... Learning to code and finding a supportive workplace to be a part of the team
 - 📫 How to reach me ...
 
 <!---
