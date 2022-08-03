@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lorleod
+- 👋 Hi, my name is Taylor | @lorleod
 - 👀 I’m interested in the places where tech, culture, and economics meet
 - 🌱 I recently graduated from Lighthouse Labs' web development bootcamp and am continuing to code my own projects
 - 💞️ I’m looking for work with a company that I can continue to learn and grow with
