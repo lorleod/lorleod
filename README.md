@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Taylor | @lorleod
-- 👀 I’m interested in the places where tech, culture, and economics meet
-- 🌱 I recently graduated from Lighthouse Labs' web development bootcamp and am continuing to code my own projects
+- 👋 Hi, my name is Taylor / @lorleod
+- 👀 I’m interested in tech, culture, and the economy - among other things!
+- 🌱 I recently graduated from Lighthouse Labs' web development bootcamp
 - 💞️ I’m looking for work with a company that I can continue to learn and grow with
 - 📫 Connect with me at https://www.linkedin.com/in/taylormcleod/
 
